@@ -7,6 +7,7 @@ Here is a repo for practicing algorithms and data structures in different langua
 1. Each exercise should be a separate folder with the name of the exercise.
 2. Each exercise should have a description.md file with the description of the exercise and the solution.
 3. Each exercise should have a separate folder for the solution in specific language.
+
 example structure:
 ```
 dsa/
