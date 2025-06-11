@@ -35,5 +35,17 @@ dsa/
 │       │   └── python/
 │       │       ├── main.py
 │       │       └── solution.md
+├── leetcode/
+│   ├── 1-two-sum/
+│   │   ├── description.md
+│   │   ├── go/
+│   │   │   ├── main.go
+│   │   │   └── solution.md
+│   │   ├── rust/
+│   │   │   ├── main.rs
+│   │   │   └── solution.md
+│   │   └── python/
+│   │       ├── main.py
+│   │       └── solution.md
 ```
 
