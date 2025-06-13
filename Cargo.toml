@@ -1,0 +1,15 @@
+[workspace]
+resolver = "2"
+members = [
+    "leetcode/two-sum/rust",
+]
+
+# Future LeetCode problems can be added here as workspace members
+# Example:
+# "leetcode/three-sum/rust",
+# "leetcode/valid-parentheses/rust",
+# etc.
+
+[workspace.package]
+version = "0.1.0"
+edition = "2021" 
