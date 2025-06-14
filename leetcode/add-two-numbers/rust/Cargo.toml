@@ -1,0 +1,12 @@
+[package]
+name = "add-two-numbers"
+version.workspace = true
+edition.workspace = true
+description = "Add Two Numbers solution implemented in Rust using linked lists"
+
+[dependencies]
+# No external dependencies required - using only std library
+
+[[bin]]
+name = "main"
+path = "main.rs" 
