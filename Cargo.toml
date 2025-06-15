@@ -3,6 +3,7 @@ resolver = "2"
 members = [
     "leetcode/two-sum/rust",
     "leetcode/add-two-numbers/rust",
+    "leetcode/longest-substring-without-repeating-characters/rust",
 ]
 
 # Future LeetCode problems can be added here as workspace members

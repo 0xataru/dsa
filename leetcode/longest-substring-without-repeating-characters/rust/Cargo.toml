@@ -1,0 +1,12 @@
+[package]
+name = "longest-substring-without-repeating-characters"
+version.workspace = true
+edition.workspace = true
+description = "Optimal Longest Substring Without Repeating Characters solution implemented in Rust using HashMap"
+
+[dependencies]
+# No external dependencies required - using std::collections::HashMap
+
+[[bin]]
+name = "main"
+path = "main.rs" 
