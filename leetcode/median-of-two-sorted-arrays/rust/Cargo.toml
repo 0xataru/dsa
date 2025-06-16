@@ -1,0 +1,11 @@
+[package]
+name = "median-of-two-sorted-arrays"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+# No external dependencies required - uses only standard library 
+
+[[bin]]
+name = "main"
+path = "main.rs" 
