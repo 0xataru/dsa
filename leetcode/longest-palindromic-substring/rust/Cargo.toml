@@ -1,0 +1,12 @@
+[package]
+name = "longest-palindromic-substring"
+version.workspace = true
+edition.workspace = true
+description = "Longest Palindromic Substring solution implemented in Rust using expand around centers approach"
+
+[dependencies]
+# No external dependencies required - using only std library
+
+[[bin]]
+name = "main"
+path = "main.rs" 
