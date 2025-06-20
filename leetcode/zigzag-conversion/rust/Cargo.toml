@@ -1,0 +1,11 @@
+[package]
+name = "zigzag-conversion"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+# No external dependencies required - using only std library
+
+[[bin]]
+name = "main"
+path = "main.rs" 

@@ -5,6 +5,7 @@ members = [
     "leetcode/add-two-numbers/rust",
     "leetcode/longest-substring-without-repeating-characters/rust",
     "leetcode/longest-palindromic-substring/rust",
+    "leetcode/zigzag-conversion/rust",
 ]
 
 # Future LeetCode problems can be added here as workspace members
