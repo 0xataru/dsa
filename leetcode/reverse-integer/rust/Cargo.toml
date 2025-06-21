@@ -1,0 +1,12 @@
+[package]
+name = "reverse-integer"
+version.workspace = true
+edition.workspace = true
+description = "Optimal Reverse Integer solution implemented in Rust with overflow handling"
+
+[dependencies]
+# No external dependencies required - using only std library
+
+[[bin]]
+name = "main"
+path = "main.rs" 

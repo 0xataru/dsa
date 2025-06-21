@@ -6,6 +6,7 @@ members = [
     "leetcode/longest-substring-without-repeating-characters/rust",
     "leetcode/longest-palindromic-substring/rust",
     "leetcode/zigzag-conversion/rust",
+    "leetcode/reverse-integer/rust",
 ]
 
 # Future LeetCode problems can be added here as workspace members
