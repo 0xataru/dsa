@@ -7,6 +7,7 @@ members = [
     "leetcode/longest-palindromic-substring/rust",
     "leetcode/zigzag-conversion/rust",
     "leetcode/reverse-integer/rust",
+    "leetcode/string-to-integer-(atoi)/rust",
 ]
 
 # Future LeetCode problems can be added here as workspace members
