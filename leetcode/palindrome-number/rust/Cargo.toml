@@ -1,0 +1,12 @@
+[package]
+name = "palindrome-number"
+version.workspace = true
+edition.workspace = true
+description = "Optimal Palindrome Number solution implemented in Rust without string conversion"
+
+[dependencies]
+# No external dependencies required - using only std library
+
+[[bin]]
+name = "main"
+path = "main.rs" 
