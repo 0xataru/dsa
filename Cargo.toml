@@ -8,7 +8,8 @@ members = [
     "leetcode/zigzag-conversion/rust",
     "leetcode/reverse-integer/rust",
     "leetcode/string-to-integer-(atoi)/rust",
-    "leetcode/palindrome-number/rust",
+    "leetcode/palindrome-number/rust", 
+    "data-structures/stack/rust",
 ]
 
 # Future LeetCode problems can be added here as workspace members
