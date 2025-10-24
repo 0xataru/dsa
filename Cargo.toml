@@ -9,7 +9,8 @@ members = [
     "leetcode/reverse-integer/rust",
     "leetcode/string-to-integer-(atoi)/rust",
     "leetcode/palindrome-number/rust", 
-    "data-structures/stack/rust",
+    "data-structures/stack/rust", 
+    "data-structures/queue/rust",
 ]
 
 # Future LeetCode problems can be added here as workspace members

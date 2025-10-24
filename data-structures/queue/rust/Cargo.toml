@@ -1,5 +1,5 @@
 [package]
-name = "stack"
+name = "queue"
 version.workspace = true
 edition.workspace = true
 
