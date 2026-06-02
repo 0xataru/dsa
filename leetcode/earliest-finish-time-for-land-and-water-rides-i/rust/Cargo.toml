@@ -1,0 +1,11 @@
+[package]
+name = "earliest-finish-time-for-land-and-water-rides-i"
+version.workspace = true
+edition.workspace = true
+description = "Earliest Finish Time for Land and Water Rides I - brute force pair enumeration"
+
+[dependencies]
+
+[[bin]]
+name = "main"
+path = "main.rs"
