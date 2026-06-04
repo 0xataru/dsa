@@ -1,0 +1,11 @@
+[package]
+name = "total-waviness-of-numbers-in-range-i"
+version.workspace = true
+edition.workspace = true
+description = "Total Waviness of Numbers in Range I - brute force over inclusive range"
+
+[dependencies]
+
+[[bin]]
+name = "main"
+path = "main.rs"

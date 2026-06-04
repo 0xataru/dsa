@@ -10,6 +10,7 @@ members = [
     "leetcode/string-to-integer-(atoi)/rust",
     "leetcode/palindrome-number/rust",
     "leetcode/earliest-finish-time-for-land-and-water-rides-i/rust",
+    "leetcode/total-waviness-of-numbers-in-range-i/rust",
     "data-structures/stack/rust", 
     "data-structures/queue/rust",
 ]
