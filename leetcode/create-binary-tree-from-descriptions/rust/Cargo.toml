@@ -1,0 +1,11 @@
+[package]
+name = "create-binary-tree-from-descriptions"
+version.workspace = true
+edition.workspace = true
+description = "Create Binary Tree From Descriptions - hash map tree construction"
+
+[dependencies]
+
+[[bin]]
+name = "main"
+path = "main.rs"

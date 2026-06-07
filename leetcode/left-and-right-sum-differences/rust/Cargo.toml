@@ -1,0 +1,11 @@
+[package]
+name = "left-and-right-sum-differences"
+version.workspace = true
+edition.workspace = true
+description = "Left and Right Sum Differences - prefix sum in one pass"
+
+[dependencies]
+
+[[bin]]
+name = "main"
+path = "main.rs"
