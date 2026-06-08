@@ -1,0 +1,11 @@
+[package]
+name = "partition-array-according-to-given-pivot"
+version.workspace = true
+edition.workspace = true
+description = "Partition Array According to Given Pivot - three-way stable partition"
+
+[dependencies]
+
+[[bin]]
+name = "main"
+path = "main.rs"

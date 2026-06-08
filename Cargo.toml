@@ -14,6 +14,7 @@ members = [
     "leetcode/total-waviness-of-numbers-in-range-ii/rust",
     "leetcode/create-binary-tree-from-descriptions/rust",
     "leetcode/left-and-right-sum-differences/rust",
+    "leetcode/partition-array-according-to-given-pivot/rust",
     "data-structures/stack/rust", 
     "data-structures/queue/rust",
 ]
