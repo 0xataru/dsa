@@ -1,0 +1,11 @@
+[package]
+name = "maximum-total-subarray-value-i"
+version.workspace = true
+edition.workspace = true
+description = "Maximum Total Subarray Value I - global min/max greedy"
+
+[dependencies]
+
+[[bin]]
+name = "main"
+path = "main.rs"
