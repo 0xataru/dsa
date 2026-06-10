@@ -1,0 +1,11 @@
+[package]
+name = "maximum-total-subarray-value-ii"
+version.workspace = true
+edition.workspace = true
+description = "Maximum Total Subarray Value II - sparse table + greedy heap"
+
+[dependencies]
+
+[[bin]]
+name = "main"
+path = "main.rs"
