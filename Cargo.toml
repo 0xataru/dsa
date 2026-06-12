@@ -17,6 +17,8 @@ members = [
     "leetcode/partition-array-according-to-given-pivot/rust",
     "leetcode/maximum-total-subarray-value-i/rust",
     "leetcode/maximum-total-subarray-value-ii/rust",
+    "leetcode/number-of-ways-to-assign-edge-weights-i/rust",
+    "leetcode/number-of-ways-to-assign-edge-weights-ii/rust",
     "data-structures/stack/rust", 
     "data-structures/queue/rust",
 ]

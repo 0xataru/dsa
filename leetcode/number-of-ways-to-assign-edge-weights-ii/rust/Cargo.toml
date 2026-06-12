@@ -1,0 +1,11 @@
+[package]
+name = "number-of-ways-to-assign-edge-weights-ii"
+version.workspace = true
+edition.workspace = true
+description = "Number of Ways to Assign Edge Weights II - LCA + binary lifting"
+
+[dependencies]
+
+[[bin]]
+name = "main"
+path = "main.rs"
