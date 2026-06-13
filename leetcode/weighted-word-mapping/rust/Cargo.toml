@@ -1,0 +1,11 @@
+[package]
+name = "weighted-word-mapping"
+version.workspace = true
+edition.workspace = true
+description = "Weighted Word Mapping - sum weights mod 26 reverse alphabet map"
+
+[dependencies]
+
+[[bin]]
+name = "main"
+path = "main.rs"
