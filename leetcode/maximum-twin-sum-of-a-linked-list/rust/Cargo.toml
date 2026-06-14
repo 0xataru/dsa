@@ -1,0 +1,11 @@
+[package]
+name = "maximum-twin-sum-of-a-linked-list"
+version.workspace = true
+edition.workspace = true
+description = "Maximum Twin Sum of a Linked List - vec vs in-place reverse"
+
+[dependencies]
+
+[[bin]]
+name = "main"
+path = "main.rs"

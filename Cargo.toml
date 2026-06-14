@@ -20,6 +20,7 @@ members = [
     "leetcode/number-of-ways-to-assign-edge-weights-i/rust",
     "leetcode/number-of-ways-to-assign-edge-weights-ii/rust",
     "leetcode/weighted-word-mapping/rust",
+    "leetcode/maximum-twin-sum-of-a-linked-list/rust",
     "data-structures/stack/rust", 
     "data-structures/queue/rust",
 ]
