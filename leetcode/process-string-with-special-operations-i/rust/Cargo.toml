@@ -1,0 +1,11 @@
+[package]
+name = "process-string-with-special-operations-i"
+version.workspace = true
+edition.workspace = true
+description = "Process String with Special Operations I - simulate with a mutable string"
+
+[dependencies]
+
+[[bin]]
+name = "main"
+path = "main.rs"

@@ -22,6 +22,7 @@ members = [
     "leetcode/weighted-word-mapping/rust",
     "leetcode/maximum-twin-sum-of-a-linked-list/rust",
     "leetcode/delete-the-middle-node-of-a-linked-list/rust",
+    "leetcode/process-string-with-special-operations-i/rust",
     "data-structures/stack/rust", 
     "data-structures/queue/rust",
 ]
