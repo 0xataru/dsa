@@ -1,0 +1,11 @@
+[package]
+name = "process-string-with-special-operations-ii"
+version.workspace = true
+edition.workspace = true
+description = "Process String with Special Operations II - find kth char via length tracking and backward walk"
+
+[dependencies]
+
+[[bin]]
+name = "main"
+path = "main.rs"
