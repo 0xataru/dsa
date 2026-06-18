@@ -1,0 +1,11 @@
+[package]
+name = "angle-between-hands-of-a-clock"
+version.workspace = true
+edition.workspace = true
+description = "Angle Between Hands of a Clock - O(1) geometry with reflex-angle folding"
+
+[dependencies]
+
+[[bin]]
+name = "main"
+path = "main.rs"

@@ -24,6 +24,7 @@ members = [
     "leetcode/delete-the-middle-node-of-a-linked-list/rust",
     "leetcode/process-string-with-special-operations-i/rust",
     "leetcode/process-string-with-special-operations-ii/rust",
+    "leetcode/angle-between-hands-of-a-clock/rust",
     "data-structures/stack/rust",
     "data-structures/queue/rust",
 ]
