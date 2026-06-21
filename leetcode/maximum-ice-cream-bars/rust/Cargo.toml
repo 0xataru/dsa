@@ -1,0 +1,11 @@
+[package]
+name = "maximum-ice-cream-bars"
+version.workspace = true
+edition.workspace = true
+description = "Maximum Ice Cream Bars - counting sort over the fixed price range"
+
+[dependencies]
+
+[[bin]]
+name = "main"
+path = "main.rs"
